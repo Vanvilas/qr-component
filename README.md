@@ -1,1 +1,1 @@
-images/screenshots-qr-component.jpeg
+![Imagem de Exemplo](images/screenshots-qr-component.jpeg)
